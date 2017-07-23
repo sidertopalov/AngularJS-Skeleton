@@ -3,15 +3,15 @@ AngularJS Skeleton
 
 ## Getting Started
 
-To get you started you can simply clone the `angular-seed` repository and install the dependencies:
+To get you started you can simply clone the `AngularJS-Skeleton` repository and install the dependencies:
 
-### Clone `angular-seed`
+### Clone `AngularJS-Skeleton`
 
-Clone the `angular-seed` repository using git:
+Clone the `AngularJS-Skeleton` repository using git:
 
 ```
-git clone https://github.com/angular/angular-seed.git
-cd angular-seed
+git clone https://github.com/sidertopalov/AngularJS-Skeleton.git
+cd AngularJS-Skeleton
 ```
 
 ### Install Dependencies
